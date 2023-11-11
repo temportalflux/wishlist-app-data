@@ -3,9 +3,8 @@ list "temportalflux's Wishlist" {
 		description ""
 		quantity 1
 		tag "Kitchen"
-		kind "Specific" {
-			offer ""
-			cost_per_unit 0
+		kind "Idea" {
+			estimated_cost 0
 		}
 	}
 	entry "RAM (16GM x 2)" {
