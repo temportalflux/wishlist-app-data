@@ -4,6 +4,7 @@ list "temportalflux's Wishlist" {
 		quantity 1
 		tag "Kitchen"
 		kind "Idea" {
+			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_kmAJrV.jpeg"
 			estimated_cost 10
 		}
 	}
