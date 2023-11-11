@@ -6,7 +6,7 @@ list "temportalflux's Wishlist" {
 		kind "Specific" {
 			image "https://m.media-amazon.com/images/I/71LhIXO560L._AC_SX679_.jpg"
 			offer ""
-			cost_per_unit 19
+			cost_per_unit 18
 		}
 	}
 	entry "Fermenting Jug Kit" {
