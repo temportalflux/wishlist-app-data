@@ -3,7 +3,7 @@ list "temportalflux's Wishlist" {
 		description ""
 		quantity 1
 		kind "Idea" {
-			estimated_cost 0
+			estimated_cost 60
 		}
 	}
 	entry "Brewing Spoons" {
