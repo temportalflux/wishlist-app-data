@@ -2,6 +2,7 @@ list "temportalflux's Wishlist" {
 	entry "Liquid Funnels" {
 		description ""
 		quantity 1
+		tag "Mead"
 		kind "Specific" {
 			image "https://shop.critrole.com/cdn/shop/products/ProductPhotos-Nicodranas-Wildemount-Ceramic-Camping-Mug-White-Front2-1200x-web.jpg?v=1624336854"
 			offer ""
