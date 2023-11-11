@@ -3,7 +3,7 @@ list "temportalflux's Wishlist" {
 		description ""
 		quantity 1
 		kind "Specific" {
-			offer ""
+			offer "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_MzLPxZ.jpeg"
 			cost_per_unit 30
 		}
 	}
