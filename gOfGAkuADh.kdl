@@ -6,7 +6,7 @@ list "temportalflux's Wishlist" {
 		kind "Specific" {
 			image "https://images-us.bookshop.org/ingram/9780593321201.jpg?height=500&v=v2-3559920d7919523c7314f5f676233858"
 			offer ""
-			cost_per_unit 0
+			cost_per_unit 30
 		}
 	}
 	entry "Wooden Bookshelf" {
