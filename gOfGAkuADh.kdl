@@ -2,6 +2,7 @@ list "temportalflux's Wishlist" {
 	entry "Wooden Bookshelf" {
 		description ""
 		quantity 1
+		tag "Home & Furniture"
 		kind "Idea" {
 			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_6543cab63f026.jpeg"
 			estimated_cost 60
