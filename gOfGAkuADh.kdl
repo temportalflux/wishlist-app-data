@@ -3,6 +3,7 @@ list "temportalflux's Wishlist" {
 		description ""
 		quantity 1
 		kind "Specific" {
+			image "https://m.media-amazon.com/images/I/71DeW7TfvyL._AC_SX679_.jpg"
 			offer ""
 			cost_per_unit 0
 		}
