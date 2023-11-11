@@ -2,6 +2,7 @@ list "temportalflux's Wishlist" {
 	entry "Fermenting Jug Kit" {
 		description ""
 		quantity 1
+		tag "Mead"
 		kind "Specific" {
 			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_651ca8337bd91.jpeg"
 			offer ""
