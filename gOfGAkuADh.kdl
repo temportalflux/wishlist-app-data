@@ -1,4 +1,12 @@
 list "temportalflux's Wishlist" {
+	entry "CustomItem" {
+		description ""
+		quantity 1
+		kind "Specific" {
+			offer ""
+			cost_per_unit 0
+		}
+	}
 	entry "Wooden Bookshelf" {
 		description "https://www.amazon.com/dp/B08JYXCF9B/?coliid=I1M26WCYM0M2S&colid=1PU1AKGSOBCVZ&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it"
 		quantity 1
