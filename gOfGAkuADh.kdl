@@ -2,6 +2,7 @@ list "temportalflux's Wishlist" {
 	entry "Tomorrow and Tomorrow and Tomorrow" {
 		description ""
 		quantity 1
+		tag "Books"
 		kind "Specific" {
 			offer ""
 			cost_per_unit 0
