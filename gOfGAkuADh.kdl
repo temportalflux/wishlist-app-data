@@ -1,6 +1,6 @@
 list "temportalflux's Wishlist" {
 	entry "Fun Mugs!" {
-		description ""
+		description "Will be used for tea. Bonus points for local businesses/pottery."
 		quantity 1
 		kind "Idea" {
 			estimated_cost 0
