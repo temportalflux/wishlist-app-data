@@ -2,6 +2,7 @@ list "temportalflux's Wishlist" {
 	entry " Wine Bottle Corker" {
 		description ""
 		quantity 1
+		tag "Mead"
 		kind "Specific" {
 			offer ""
 			cost_per_unit 0
