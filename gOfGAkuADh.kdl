@@ -2,6 +2,7 @@ list "temportalflux's Wishlist" {
 	entry "Dough Scraper" {
 		description ""
 		quantity 1
+		tag "Kitchen"
 		kind "Specific" {
 			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_kmAJrV.jpeg"
 			offer "https://a.co/d/eK2rzXa"
