@@ -5,7 +5,7 @@ list "temportalflux's Wishlist" {
 		tag "Books"
 		kind "Specific" {
 			image "https://images-us.bookshop.org/ingram/9780593321201.jpg?height=500&v=v2-3559920d7919523c7314f5f676233858"
-			offer ""
+			offer "https://bookshop.org/p/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/17502475?ean=9780593321201"
 			cost_per_unit 30
 		}
 	}
