@@ -3,7 +3,7 @@ list "temportalflux's Wishlist" {
 		description ""
 		quantity 1
 		kind "Specific" {
-			offer
+			offer "https://a.co/d/6hTV0Iy"
 			cost_per_unit 0
 		}
 	}
