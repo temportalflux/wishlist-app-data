@@ -5,7 +5,7 @@ list "temportalflux's Wishlist" {
 		tag "Mead"
 		kind "Specific" {
 			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_651ca8337bd91.jpeg"
-			offer ""
+			offer "https://a.co/d/jb90fXi"
 			cost_per_unit 30
 		}
 	}
