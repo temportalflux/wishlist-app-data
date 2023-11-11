@@ -5,7 +5,7 @@ list "temportalflux's Wishlist" {
 		kind "Specific" {
 			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_651ca8337bd91.jpeg"
 			offer ""
-			cost_per_unit 0
+			cost_per_unit 30
 		}
 	}
 	entry "Dough Scraper" {
