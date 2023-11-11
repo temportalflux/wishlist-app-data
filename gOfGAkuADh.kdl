@@ -2,6 +2,7 @@ list "temportalflux's Wishlist" {
 	entry " Dutch Oven" {
 		description "https://a.co/d/aFynlH2"
 		quantity 1
+		tag "Kitchen"
 		kind "Idea" {
 			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_651ca6ba8f628.jpeg"
 			estimated_cost 40
