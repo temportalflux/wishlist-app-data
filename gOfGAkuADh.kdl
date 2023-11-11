@@ -5,7 +5,7 @@ list "temportalflux's Wishlist" {
 		kind "Specific" {
 			image "https://m.media-amazon.com/images/I/81e+DLpaYtL._AC_SX300_SY300_.jpg"
 			offer ""
-			cost_per_unit 0
+			cost_per_unit 30
 		}
 	}
 	entry "Sourdough cookie book" {
