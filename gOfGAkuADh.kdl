@@ -6,7 +6,7 @@ list "temportalflux's Wishlist" {
 		kind "Specific" {
 			image "https://m.media-amazon.com/images/I/51gLnYN1W7L._AC_SX679_.jpg"
 			offer "https://a.co/d/aRqvHmJ"
-			cost_per_unit 0
+			cost_per_unit 80
 		}
 	}
 	entry "Liquid Funnels" {
