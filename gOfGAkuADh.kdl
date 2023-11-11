@@ -5,7 +5,7 @@ list "temportalflux's Wishlist" {
 		tag "Kitchen"
 		kind "Idea" {
 			image "https://m.media-amazon.com/images/I/61kYOu5ziCS._AC_SX522_.jpg"
-			estimated_cost 0
+			estimated_cost 15
 		}
 	}
 	entry "RAM (16GM x 2)" {
