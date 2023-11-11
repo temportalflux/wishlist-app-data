@@ -4,7 +4,7 @@ list "temportalflux's Wishlist" {
 		quantity 1
 		tag "Mead"
 		kind "Specific" {
-			image "https://shop.critrole.com/cdn/shop/products/ProductPhotos-Nicodranas-Wildemount-Ceramic-Camping-Mug-White-Front2-1200x-web.jpg?v=1624336854"
+			image "https://m.media-amazon.com/images/I/71zonNU7HQL._AC_SX679_.jpg"
 			offer "https://a.co/d/fiighkw"
 			cost_per_unit 20
 		}
