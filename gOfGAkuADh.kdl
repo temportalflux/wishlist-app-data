@@ -3,10 +3,8 @@ list "temportalflux's Wishlist" {
 		description ""
 		quantity 1
 		tag "Kitchen"
-		kind "Specific" {
-			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_kmAJrV.jpeg"
-			offer "https://a.co/d/eK2rzXa"
-			cost_per_unit 10
+		kind "Idea" {
+			estimated_cost 0
 		}
 	}
 	entry "Cork Yoga Blocks" {
