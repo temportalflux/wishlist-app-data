@@ -2,10 +2,8 @@ list "temportalflux's Wishlist" {
 	entry "Pliers" {
 		description ""
 		quantity 1
-		kind "Specific" {
-			image "https://m.media-amazon.com/images/I/61UYHChEe3L._AC_SX569_.jpg"
-			offer ""
-			cost_per_unit 0
+		kind "Idea" {
+			estimated_cost 0
 		}
 	}
 	entry "Pastry Brush(es)" {
