@@ -4,7 +4,7 @@ list "temportalflux's Wishlist" {
 		quantity 1
 		kind "Specific" {
 			offer ""
-			cost_per_unit 0
+			cost_per_unit 10
 		}
 	}
 	entry "Cork Yoga Blocks" {
