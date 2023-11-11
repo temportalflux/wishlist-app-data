@@ -6,7 +6,7 @@ list "temportalflux's Wishlist" {
 		kind "Specific" {
 			image "https://shop.critrole.com/cdn/shop/products/ProductPhotos-Nicodranas-Wildemount-Ceramic-Camping-Mug-White-Front2-1200x-web.jpg?v=1624336854"
 			offer ""
-			cost_per_unit 0
+			cost_per_unit 20
 		}
 	}
 	entry "Fun Mugs!" {
