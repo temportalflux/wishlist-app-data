@@ -4,6 +4,7 @@ list "temportalflux's Wishlist" {
 		quantity 1
 		tag "Kitchen"
 		kind "Specific" {
+			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_4RzrBr.png"
 			offer
 			cost_per_unit 0
 		}
