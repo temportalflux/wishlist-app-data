@@ -3,6 +3,7 @@ list "temportalflux's Wishlist" {
 		description ""
 		quantity 1
 		tag "Fitness"
+		tag "Kitchen"
 		kind "Specific" {
 			image "https://m.media-amazon.com/images/I/81e+DLpaYtL._AC_SX300_SY300_.jpg"
 			offer "https://a.co/d/6hTV0Iy"
