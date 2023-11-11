@@ -1,4 +1,12 @@
 list "temportalflux's Wishlist" {
+	entry "CustomItem" {
+		description ""
+		quantity 1
+		kind "Specific" {
+			offer ""
+			cost_per_unit 0
+		}
+	}
 	entry " Pasta rolling board" {
 		description "https://a.co/d/c0Z6OMh"
 		quantity 1
