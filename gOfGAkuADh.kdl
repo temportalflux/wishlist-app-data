@@ -1,12 +1,4 @@
 list "temportalflux's Wishlist" {
-	entry "Test" {
-		description ""
-		quantity 1
-		kind "Specific" {
-			offer "weeee"
-			cost_per_unit 0
-		}
-	}
 	entry "Sourdough cookie book" {
 		description ""
 		quantity 1
