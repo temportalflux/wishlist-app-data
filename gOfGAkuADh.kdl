@@ -4,7 +4,7 @@ list "temportalflux's Wishlist" {
 		quantity 1
 		kind "Specific" {
 			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_MzLPxZ.jpeg"
-			offer "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_MzLPxZ.jpeg"
+			offer "https://a.co/d/4vgI3zl"
 			cost_per_unit 30
 		}
 	}
