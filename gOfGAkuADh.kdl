@@ -4,7 +4,7 @@ list "temportalflux's Wishlist" {
 		quantity 1
 		kind "Idea" {
 			image "https://m.media-amazon.com/images/I/61UYHChEe3L._AC_SX569_.jpg"
-			estimated_cost 0
+			estimated_cost 20
 		}
 	}
 	entry "Pastry Brush(es)" {
