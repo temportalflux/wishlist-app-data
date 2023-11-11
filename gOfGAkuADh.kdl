@@ -3,6 +3,7 @@ list "temportalflux's Wishlist" {
 		description ""
 		quantity 1
 		kind "Idea" {
+			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_6543cbc810b37.jpeg"
 			estimated_cost 0
 		}
 	}
