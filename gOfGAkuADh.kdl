@@ -6,7 +6,7 @@ list "temportalflux's Wishlist" {
 		kind "Specific" {
 			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_4RzrBr.png"
 			offer "https://www.southworthsourdough.com/product-page/for-the-loaf-of-cookies"
-			cost_per_unit 0
+			cost_per_unit 20
 		}
 	}
 }
