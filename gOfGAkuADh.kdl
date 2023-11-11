@@ -2,6 +2,7 @@ list "temportalflux's Wishlist" {
 	entry "Pastry Brush(es)" {
 		description ""
 		quantity 1
+		tag "Fitness"
 		kind "Specific" {
 			offer ""
 			cost_per_unit 0
