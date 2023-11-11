@@ -6,7 +6,7 @@ list "temportalflux's Wishlist" {
 		kind "Specific" {
 			image "https://m.media-amazon.com/images/I/71DeW7TfvyL._AC_SX679_.jpg"
 			offer ""
-			cost_per_unit 0
+			cost_per_unit 35
 		}
 	}
 	entry "Tomorrow and Tomorrow and Tomorrow" {
