@@ -5,7 +5,7 @@ list "temportalflux's Wishlist" {
 		tag "Computer"
 		kind "Specific" {
 			image "https://m.media-amazon.com/images/I/71DeW7TfvyL._AC_SX679_.jpg"
-			offer ""
+			offer "https://www.amazon.com/dp/B07B4GNMS9/?coliid=I1OBLGI62U20PY&colid=2LZR2SJ3A62Q&ref_=list_c_wl_lv_ov_lig_dp_it&th=1"
 			cost_per_unit 35
 		}
 	}
