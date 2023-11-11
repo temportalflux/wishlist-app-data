@@ -2,6 +2,7 @@ list "temportalflux's Wishlist" {
 	entry "Brewing Spoons" {
 		description ""
 		quantity 1
+		tag "Mead"
 		kind "Specific" {
 			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_651ca9d1e4218.jpeg"
 			offer ""
