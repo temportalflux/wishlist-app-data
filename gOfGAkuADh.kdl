@@ -12,6 +12,7 @@ list "temportalflux's Wishlist" {
 	entry "Fun Mugs!" {
 		description "Will be used for tea. Bonus points for local businesses/pottery."
 		quantity 10
+		tag "Kitchen"
 		kind "Idea" {
 			image "https://shop.critrole.com/cdn/shop/products/ProductPhotos-Nicodranas-Wildemount-Ceramic-Camping-Mug-White-Front2-1200x-web.jpg?v=1624336854"
 			estimated_cost 30
