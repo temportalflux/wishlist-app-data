@@ -1,4 +1,12 @@
 list "temportalflux's Wishlist" {
+	entry "CustomItem" {
+		description ""
+		quantity 1
+		kind "Specific" {
+			offer ""
+			cost_per_unit 0
+		}
+	}
 	entry "Tomorrow and Tomorrow and Tomorrow" {
 		description ""
 		quantity 1
