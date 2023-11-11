@@ -4,7 +4,7 @@ list "temportalflux's Wishlist" {
 		quantity 1
 		tag "Mead"
 		kind "Specific" {
-			offer ""
+			offer "https://a.co/d/iE0aAub"
 			cost_per_unit 80
 		}
 	}
