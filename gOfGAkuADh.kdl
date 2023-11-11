@@ -2,6 +2,7 @@ list "temportalflux's Wishlist" {
 	entry "RAM (16GM x 2)" {
 		description ""
 		quantity 1
+		tag "Computer"
 		kind "Specific" {
 			offer ""
 			cost_per_unit 0
