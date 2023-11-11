@@ -2,9 +2,8 @@ list "temportalflux's Wishlist" {
 	entry "CustomItem" {
 		description ""
 		quantity 1
-		kind "Specific" {
-			offer ""
-			cost_per_unit 0
+		kind "Idea" {
+			estimated_cost 0
 		}
 	}
 	entry " Dutch Oven" {
