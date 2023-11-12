@@ -9,7 +9,7 @@ list "temportalflux's Wishlist" {
 				kind "Specific" {
 					image "https://devenrue.com/cdn/shop/files/MapofWildemount_dd2bc65b-b392-4ffb-a70c-fa74d692d05d.png?v=1699655890&width=600"
 					offer "https://devenrue.com/products/wildemount-map-prints"
-					cost_per_unit 0
+					cost_per_unit 45
 				}
 			}
 		}
