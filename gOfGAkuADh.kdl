@@ -2,7 +2,16 @@ list "temportalflux's Wishlist" {
 	entry "Wildemount Map Poster" {
 		description ""
 		quantity 1
-		kind "Bundle"
+		kind "Bundle" {
+			entry "CustomItem" {
+				description ""
+				quantity 1
+				kind "Specific" {
+					offer ""
+					cost_per_unit 0
+				}
+			}
+		}
 	}
 	entry " Wine Bottle Corker" {
 		description ""
