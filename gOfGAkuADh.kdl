@@ -10,7 +10,7 @@ list "temportalflux's Wishlist" {
 				kind "Specific" {
 					image "https://m.media-amazon.com/images/I/61b4qpYhCoL._AC_SX679_.jpg"
 					offer "https://a.co/d/h4jJUFN"
-					cost_per_unit 0
+					cost_per_unit 45
 				}
 			}
 			entry "Map Poster" {
