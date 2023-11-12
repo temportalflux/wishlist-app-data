@@ -4,6 +4,14 @@ list "temportalflux's Wishlist" {
 		quantity 1
 		tag "Home & Furniture"
 		kind "Bundle" {
+			entry "CustomItem" {
+				description ""
+				quantity 1
+				kind "Specific" {
+					offer ""
+					cost_per_unit 0
+				}
+			}
 			entry "Map Poster" {
 				description ""
 				quantity 1
