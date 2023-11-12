@@ -2,10 +2,7 @@ list "temportalflux's Wishlist" {
 	entry "Wildemount Map Poster" {
 		description ""
 		quantity 1
-		kind "Specific" {
-			offer ""
-			cost_per_unit 0
-		}
+		kind "Bundle"
 	}
 	entry " Wine Bottle Corker" {
 		description ""
