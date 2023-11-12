@@ -7,6 +7,7 @@ list "temportalflux's Wishlist" {
 				description ""
 				quantity 1
 				kind "Specific" {
+					image "https://devenrue.com/products/wildemount-map-prints"
 					offer ""
 					cost_per_unit 0
 				}
