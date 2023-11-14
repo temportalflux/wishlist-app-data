@@ -5,7 +5,7 @@ list "temportalflux's Wishlist" {
 		tag "Home & Furniture"
 		kind "Specific" {
 			offer "https://a.co/d/b4U7Zra"
-			cost_per_unit 0
+			cost_per_unit 20
 		}
 	}
 	entry "Wildemount Map Poster" {
