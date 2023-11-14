@@ -4,7 +4,7 @@ list "temportalflux's Wishlist" {
 		quantity 1
 		tag "Home & Furniture"
 		kind "Specific" {
-			offer ""
+			offer "https://a.co/d/b4U7Zra"
 			cost_per_unit 0
 		}
 	}
