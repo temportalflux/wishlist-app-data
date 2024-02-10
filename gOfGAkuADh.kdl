@@ -9,31 +9,6 @@ list "temportalflux's Wishlist" {
 			cost_per_unit 20
 		}
 	}
-	entry "Wildemount Map Poster" {
-		description ""
-		quantity 1
-		tag "Home & Furniture"
-		kind "Bundle" {
-			entry "Frame" {
-				description ""
-				quantity 1
-				kind "Specific" {
-					image "https://m.media-amazon.com/images/I/61b4qpYhCoL._AC_SX679_.jpg"
-					offer "https://a.co/d/h4jJUFN"
-					cost_per_unit 45
-				}
-			}
-			entry "Map Poster" {
-				description ""
-				quantity 1
-				kind "Specific" {
-					image "https://devenrue.com/cdn/shop/files/MapofWildemount_dd2bc65b-b392-4ffb-a70c-fa74d692d05d.png?v=1699655890&width=600"
-					offer "https://devenrue.com/products/wildemount-map-prints"
-					cost_per_unit 45
-				}
-			}
-		}
-	}
 	entry " Wine Bottle Corker" {
 		description ""
 		quantity 1
