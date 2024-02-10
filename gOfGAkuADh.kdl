@@ -1,18 +1,4 @@
 list "temportalflux's Wishlist" {
-	entry "CustomItem" {
-		description ""
-		quantity 1
-		kind "Bundle" {
-			entry "CustomItem" {
-				description ""
-				quantity 1
-				kind "Specific" {
-					offer ""
-					cost_per_unit 0
-				}
-			}
-		}
-	}
 	entry " Wine Bottle Corker" {
 		description ""
 		quantity 1
