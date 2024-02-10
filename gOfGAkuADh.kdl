@@ -1,14 +1,4 @@
 list "temportalflux's Wishlist" {
-	entry "Minky Blanket" {
-		description ""
-		quantity 1
-		tag "Home & Furniture"
-		kind "Specific" {
-			image "https://m.media-amazon.com/images/I/81VKoRRko0L._AC_UF894,1000_QL80_FMwebp_.jpg"
-			offer "https://a.co/d/b4U7Zra"
-			cost_per_unit 20
-		}
-	}
 	entry " Wine Bottle Corker" {
 		description ""
 		quantity 1
