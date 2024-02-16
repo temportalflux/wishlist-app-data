@@ -4,7 +4,7 @@ list "temportalflux's Wishlist" {
 		quantity 1
 		tag "Books"
 		kind "Specific" {
-			offer ""
+			offer "https://rollandplaypress.com/products/one-shot-wonders"
 			cost_per_unit 0
 		}
 	}
