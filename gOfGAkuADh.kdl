@@ -1,14 +1,4 @@
 list "temportalflux's Wishlist" {
-	entry " Wine Bottle Corker" {
-		description ""
-		quantity 1
-		tag "Mead"
-		kind "Specific" {
-			image "https://m.media-amazon.com/images/I/512AL24HsIL._AC_SL1000_.jpg"
-			offer "https://a.co/d/iE0aAub"
-			cost_per_unit 80
-		}
-	}
 	entry "RAM (16GM x 2)" {
 		description ""
 		quantity 1
@@ -16,6 +6,16 @@ list "temportalflux's Wishlist" {
 		kind "Specific" {
 			image "https://m.media-amazon.com/images/I/51gLnYN1W7L._AC_SX679_.jpg"
 			offer "https://a.co/d/aRqvHmJ"
+			cost_per_unit 80
+		}
+	}
+	entry " Wine Bottle Corker" {
+		description ""
+		quantity 1
+		tag "Mead"
+		kind "Specific" {
+			image "https://m.media-amazon.com/images/I/512AL24HsIL._AC_SL1000_.jpg"
+			offer "https://a.co/d/iE0aAub"
 			cost_per_unit 80
 		}
 	}
