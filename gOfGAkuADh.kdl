@@ -48,6 +48,16 @@ list "temportalflux's Wishlist" {
 			estimated_cost 30
 		}
 	}
+	entry "Fermenting Siphon" {
+		description ""
+		quantity 1
+		tag "Mead"
+		kind "Specific" {
+			image "https://m.media-amazon.com/images/I/71LhIXO560L._AC_SX679_.jpg"
+			offer "https://a.co/d/1PStOPB"
+			cost_per_unit 18
+		}
+	}
 	entry "Tomorrow and Tomorrow and Tomorrow" {
 		description ""
 		quantity 1
@@ -104,16 +114,6 @@ list "temportalflux's Wishlist" {
 			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_651ca9d1e4218.jpeg"
 			offer "https://a.co/d/jk0Qg7i"
 			cost_per_unit 12
-		}
-	}
-	entry "Fermenting Siphon" {
-		description ""
-		quantity 1
-		tag "Mead"
-		kind "Specific" {
-			image "https://m.media-amazon.com/images/I/71LhIXO560L._AC_SX679_.jpg"
-			offer "https://a.co/d/1PStOPB"
-			cost_per_unit 18
 		}
 	}
 	entry "Fermenting Jug Kit" {
