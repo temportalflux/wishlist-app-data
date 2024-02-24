@@ -48,6 +48,16 @@ list "temportalflux's Wishlist" {
 			estimated_cost 30
 		}
 	}
+	entry "Tomorrow and Tomorrow and Tomorrow" {
+		description ""
+		quantity 1
+		tag "Books"
+		kind "Specific" {
+			image "https://images-us.bookshop.org/ingram/9780593321201.jpg?height=500&v=v2-3559920d7919523c7314f5f676233858"
+			offer "https://bookshop.org/p/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/17502475?ean=9780593321201"
+			cost_per_unit 30
+		}
+	}
 	entry " Pasta rolling board" {
 		description "https://a.co/d/c0Z6OMh"
 		quantity 1
@@ -75,16 +85,6 @@ list "temportalflux's Wishlist" {
 			image "https://m.media-amazon.com/images/I/71DeW7TfvyL._AC_SX679_.jpg"
 			offer "https://www.amazon.com/dp/B07B4GNMS9/?coliid=I1OBLGI62U20PY&colid=2LZR2SJ3A62Q&ref_=list_c_wl_lv_ov_lig_dp_it&th=1"
 			cost_per_unit 35
-		}
-	}
-	entry "Tomorrow and Tomorrow and Tomorrow" {
-		description ""
-		quantity 1
-		tag "Books"
-		kind "Specific" {
-			image "https://images-us.bookshop.org/ingram/9780593321201.jpg?height=500&v=v2-3559920d7919523c7314f5f676233858"
-			offer "https://bookshop.org/p/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/17502475?ean=9780593321201"
-			cost_per_unit 30
 		}
 	}
 	entry "Wooden Bookshelf" {
