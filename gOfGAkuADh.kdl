@@ -1,14 +1,4 @@
 list "temportalflux's Wishlist" {
-	entry "Tomorrow and Tomorrow and Tomorrow" {
-		description ""
-		quantity 1
-		tag "Books"
-		kind "Specific" {
-			image "https://images-us.bookshop.org/ingram/9780593321201.jpg?height=500&v=v2-3559920d7919523c7314f5f676233858"
-			offer "https://bookshop.org/p/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/17502475?ean=9780593321201"
-			cost_per_unit 30
-		}
-	}
 	entry "RAM (16GM x 2)" {
 		description ""
 		quantity 1
@@ -65,6 +55,16 @@ list "temportalflux's Wishlist" {
 			image "https://m.media-amazon.com/images/I/71LhIXO560L._AC_SX679_.jpg"
 			offer "https://a.co/d/1PStOPB"
 			cost_per_unit 18
+		}
+	}
+	entry "Tomorrow and Tomorrow and Tomorrow" {
+		description ""
+		quantity 1
+		tag "Books"
+		kind "Specific" {
+			image "https://images-us.bookshop.org/ingram/9780593321201.jpg?height=500&v=v2-3559920d7919523c7314f5f676233858"
+			offer "https://bookshop.org/p/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/17502475?ean=9780593321201"
+			cost_per_unit 30
 		}
 	}
 	entry "Liquid Funnels" {
