@@ -19,6 +19,15 @@ list "temportalflux's Wishlist" {
 			cost_per_unit 80
 		}
 	}
+	entry " Pasta rolling board" {
+		description "https://a.co/d/c0Z6OMh"
+		quantity 1
+		tag "Kitchen"
+		kind "Idea" {
+			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_6543cbc810b37.jpeg"
+			estimated_cost 20
+		}
+	}
 	entry "One Shot Wonders" {
 		description ""
 		quantity 1
@@ -66,15 +75,6 @@ list "temportalflux's Wishlist" {
 			image "https://m.media-amazon.com/images/I/71zonNU7HQL._AC_SX679_.jpg"
 			offer "https://a.co/d/fiighkw"
 			cost_per_unit 20
-		}
-	}
-	entry " Pasta rolling board" {
-		description "https://a.co/d/c0Z6OMh"
-		quantity 1
-		tag "Kitchen"
-		kind "Idea" {
-			image "https://s3.amazonaws.com/imgstage.wishlist.com/uploads/users/w_s3_6543cbc810b37.jpeg"
-			estimated_cost 20
 		}
 	}
 	entry "Nordstick" {
