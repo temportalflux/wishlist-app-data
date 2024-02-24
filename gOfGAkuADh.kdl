@@ -1,14 +1,4 @@
 list "temportalflux's Wishlist" {
-	entry "One Shot Wonders" {
-		description ""
-		quantity 1
-		tag "Books"
-		kind "Specific" {
-			image "https://rollandplaypress.com/cdn/shop/files/R_P-One-ShotWondersBook_PDF.png?v=1688729770&width=800"
-			offer "https://rollandplaypress.com/products/one-shot-wonders"
-			cost_per_unit 60
-		}
-	}
 	entry " Wine Bottle Corker" {
 		description ""
 		quantity 1
@@ -27,6 +17,16 @@ list "temportalflux's Wishlist" {
 			image "https://m.media-amazon.com/images/I/51gLnYN1W7L._AC_SX679_.jpg"
 			offer "https://a.co/d/aRqvHmJ"
 			cost_per_unit 80
+		}
+	}
+	entry "One Shot Wonders" {
+		description ""
+		quantity 1
+		tag "Books"
+		kind "Specific" {
+			image "https://rollandplaypress.com/cdn/shop/files/R_P-One-ShotWondersBook_PDF.png?v=1688729770&width=800"
+			offer "https://rollandplaypress.com/products/one-shot-wonders"
+			cost_per_unit 60
 		}
 	}
 	entry "Liquid Funnels" {
